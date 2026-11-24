@@ -46,7 +46,7 @@ Pengujian pada 262 data uji menghasilkan performa sebagai berikut:
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
+   git clone https://github.com/ardian79/Perceptron-Project.git
    cd nama-repo-kamu
    ```
 
