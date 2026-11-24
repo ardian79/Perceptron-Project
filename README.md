@@ -27,7 +27,7 @@ Pengujian pada 262 data uji menghasilkan performa sebagai berikut:
 | **F1-Score** | 0.89 | 0.89 | 0.89 |
 | **Akurasi Total** | — | — | **88,93%** |
 
-![Confusion Matrix Perceptron](confusion_matrix.png)
+<img src="confusion_matrix.png" alt="Confusion Matrix Perceptron" width="450">
 
 ## Struktur Proyek
 ```text
