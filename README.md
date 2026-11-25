@@ -1,4 +1,4 @@
-# Klasifikasi Kualitas Kopi Arabika (Single-Layer Perceptron)
+# Klasifikasi Kualitas Kopi Arabika Menggunakan Perceptron
 
 Aplikasi web interaktif berbasis **Streamlit** untuk mengklasifikasikan kualitas biji kopi Arabika ke dalam kategori **Premium (Kelas 1)** atau **Standar (Kelas 0)** menggunakan algoritma **Single-Layer Perceptron**.
 
@@ -8,7 +8,7 @@ Aplikasi web interaktif berbasis **Streamlit** untuk mengklasifikasikan kualitas
 - **Aplikasi Web Interaktif:** Input 6 skor cita rasa secara presisi (skala `0.00 – 10.00`), menampilkan hasil prediksi kelas beserta rincian perhitungan **Net Input ($v$)** dan aturan **Step Function**.
 
 ## Dataset & Metodologi
-Dataset bersumber dari [Coffee Quality Database (CQI) — Kaggle](https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi) menggunakan file `arabica_data_cleaned.csv`.
+Dataset bersumber dari [Coffee Quality Database (CQI)](https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi) menggunakan file `arabica_data_cleaned.csv`.
 
 - **Jumlah Data Bersih:** 1.310 baris (setelah menghapus 1 baris *outlier* bernilai `0`).
 - **Fitur Input ($x$):** `Aroma`, `Flavor`, `Aftertaste`, `Acidity`, `Body`, dan `Balance`.
