@@ -55,7 +55,7 @@ Pengujian pada 262 data uji menghasilkan performa sebagai berikut:
    pip install pandas scikit-learn matplotlib streamlit
    ```
 
-3. **(Opsional) Jalankan ulang preprocessing & training:**
+3. **Jalankan ulang preprocessing & training:**
    ```bash
    python preprocessing.py
    python train-perceptron.py
